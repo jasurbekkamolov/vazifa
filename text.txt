@@ -1,0 +1,9 @@
+# 1 githubda repository ochish
+# 2 repository ochayotganda readme ga galochka bosish
+# 3 git clone repository_url
+# 4 git status 
+# 5 git add . (donalab qushaman disa nomi) index.html 
+# 6 git status
+# 7 git commit -m "git hubga test "
+# 8 git push 
+# 9 git pull = agar githubga kimdir uzgarish kiritgan bulsa uni olib kelish uchun 
