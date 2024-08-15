@@ -1,0 +1,46 @@
+.container{
+    margin-top: 200px;
+    
+    
+}
+.img{
+    width: 100px;
+    height: 500px;
+    background-size: cover;
+    border-radius: 15px;
+    margin: 8px;
+    background-position: center;
+    position: relative;
+    transition: 0.3s ease-in;
+
+}
+.img:nth-child(1){
+    background-image: url(./5073.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+.img:nth-child(2){
+    background-image: url(./5088.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+.img:nth-child(3){
+    background-image: url(./672272407.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+.img:nth-child(4){
+    background-image: url(./img2.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  .img:hover{
+    cursor: pointer;
+    width: 300px;
+  }
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

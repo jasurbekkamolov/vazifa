@@ -1,0 +1,18 @@
+h1 {
+  width: 100%;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.box ul {
+  display: flex;
+  list-style: none;
+}
+.box ul li {
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */

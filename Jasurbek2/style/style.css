@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+color: rgb(5, 213, 245);
+text-align: center;
+width: 100%;
+height: 130vh;
+background-image: url(./dodge.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.main1{
+    color: rgb(29, 4, 255);
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: url(./dodge-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+.main2{
+    color: rgb(255, 0, 17);
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-image: url(./dodge-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

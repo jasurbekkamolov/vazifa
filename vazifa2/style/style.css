@@ -1,0 +1,75 @@
+#hondred{
+    width: 100%;
+    background-color: orange;
+}
+.fifty{
+    width: 50%;
+    background-color: yellow;
+}
+.header{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    background-color: tomato;
+}
+.firstBox{
+    background-color: aqua;
+}
+.secondBox{
+
+    width: 800px;
+    background-color: rgb(152, 152, 150);
+}
+.header2{
+  margin-top: 0%;
+    text-align: center;
+    color: rgb(240, 248, 255);
+    background-color: rgb(0, 0, 0);
+}
+.other{
+    height: 100px;
+background-color: rgb(73, 70, 70);
+}
+.span{
+    background-color: rgb(255, 255, 255);
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.whiteness{
+    margin: 0%;
+    border-bottom: 3px dotted hsl(0, 0%, 100%);
+    text-align: center;
+    color: hwb(208 94% 0%);
+}
+.thirdBox{
+    width: 70%;
+    height: 350px;
+    background-color: hsl(240, 100%, 50%);
+}
+.third{
+    border-bottom: 3px dotted hwb(0 100% 0%);
+    color: hwb(78 49% 13%);
+}
+.underlined{
+    border-bottom: 3px solid hsl(0, 98%, 49%);
+}
+.four{
+    width: 50%;
+
+    background-color: hsl(0, 0%, 100%);
+}
+.fr{
+    text-align: center;
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+.black{
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+.yellow{
+    color: hsl(0, 0%, 0%);
+    background-color: hsl(60, 100%, 50%);
+}

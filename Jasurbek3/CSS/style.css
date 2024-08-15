@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    color: hsl(0, 0%, 50%);
+}
+.c1 {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(192, 255, 255);
+    padding: 10PX;
+}
+
+.container {
+    width: 100%;
+    max-width: 540px;
+    margin: 100px auto 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 40px 30px 70px;
+    position: relative;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.box-1{
+    text-align: center;
+    margin-top: -1px;
+}
+.box-2{
+    padding: 15px 40px;
+    border-radius: 10px ;
+    background-color: hsl(0, 50%, 95%);
+
+}
+.box-3{
+    padding: 15px 40px;
+    border-radius: 10px ;
+    background-color: hsl(0, 50%, 95%);
+}
+.img{
+    position: absolute;
+    width: 150px;
+    height: auto;
+    top: -50px;
+    right: 220px;
+    border: 3px solid rgb(0, 225, 255);
+    border-radius: 20px;
+}
+.ab-1{
+    text-align: center;
+}
+.ab-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+
+
+}
+.ab-1 i:hover {
+    border: 1px solid rgb(0, 110, 255);
+}
+.ab-1 i{
+    font-size: 30px;
+    padding: 15px;
+    background-color: hsl(0, 50%, 95%);
+    border-radius: 10px;
+}
+.asd{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 25px;
+    border: 1px solid hsl(0, 50%, 95%);
+    text-shadow: 0 0 10px hsl(0, 50%, 95%);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.asd div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p{
+    padding-top: 25px;
+
+}
+.p-1{
+    padding-top: 15px;
+}
+.a-1{
+    padding: 25px;
+    border: 1px solid hsl(0, 50%, 95%);
+    text-shadow: 0 0 10px hsl(0, 50%, 95%);
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.a-1:hover {
+    border: 1px solid blue;
+}
+.a-2{
+    background-color: rgb(0, 204, 255);
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px
+}
+.a-2:hover {
+    background-color: rgb(17, 0, 255);
+}
+.hello{
+    text-align: center;
+}
+
